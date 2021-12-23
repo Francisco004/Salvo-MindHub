@@ -2,6 +2,10 @@
 
 ## Proyecto del Bootcamp de .Net - MindHub Compragamer
 
+### Pagina:
+- [Pagina grupal](https://www.g2csolutions.tech/)
+- [Pagina salvo](https://salvo.g2csolutions.tech/)
+
 ### Integrantes:
 
 - [Campano Fernando](https://github.com/fjcampano92)
